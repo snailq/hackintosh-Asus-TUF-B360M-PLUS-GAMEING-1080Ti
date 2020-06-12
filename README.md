@@ -1,4 +1,4 @@
-# hackintosh Asus-TUF-B360M-PLUS GAMEING + NVIDIA 1080Ti
+# Asus-TUF-B360M-PLUS GAMEING + NVIDIA 1080Ti
 
 ## 配置：
 
